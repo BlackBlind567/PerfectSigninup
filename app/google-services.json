@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "11931198834",
+    "firebase_url": "https://perfectsigninup.firebaseio.com",
+    "project_id": "perfectsigninup",
+    "storage_bucket": "perfectsigninup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11931198834:android:b0fcdf6de1f19aa5",
+        "android_client_info": {
+          "package_name": "com.blackblind.perfectsigninup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11931198834-ajof74s31tc0g1d9uhlp61bocs7k9v4s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blackblind.perfectsigninup",
+            "certificate_hash": "8c4c8d57ff84006fc75d0277b45e607b0b3ec728"
+          }
+        },
+        {
+          "client_id": "11931198834-vvvhfjhl6582lj70hrlsn3gdc2av08sa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxHzhH6AUBhY0OT0lBAfMApw3e0wTB5wQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11931198834-vvvhfjhl6582lj70hrlsn3gdc2av08sa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
